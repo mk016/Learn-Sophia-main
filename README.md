@@ -22,4 +22,4 @@ Provide links to relevant aeternity documentation within your platform for easy 
 
 Certification Courses: Develop comprehensive certification courses that cover different aspects of Sophia language development.
 Exercises: Include hands-on exercises with detailed solutions to help learners practice and reinforce their skills.
-Quiz Generation: Create quizzes with varying difficulty levels to assess learners' understanding of Sophia language concepts.
+Quiz Generation: Create quizzes with varying difficulty levels to assess learners' understanding of Sophia language concepts..
